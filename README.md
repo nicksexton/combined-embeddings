@@ -1,8 +1,6 @@
 # combined-embeddings
 Code that creates a new set of embeddings through Concatenating multiple other sources (e.g., from GloVe and skip-gram sources. Optional step of then running PCA to reduce dimensions of embeddings.
 
-Based on Word Embeddings Evaluation and Combination
-Ghannay, Favre, Estève and Camelin (
 
 
 See:
