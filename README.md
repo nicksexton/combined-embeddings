@@ -1,5 +1,5 @@
 # combined-embeddings
-Code that creates a new set of embeddings through Concatenating multiple other sources (e.g., from GloVe and skip-gram sources. Optional step of then running PCA to reduce dimensions of embeddings.
+Code that creates a new set of embeddings through Concatenating multiple word embeddings matrices (e.g., from GloVe and skip-gram). Optional step of then running PCA to reduce dimensions of embeddings.
 
 
 
